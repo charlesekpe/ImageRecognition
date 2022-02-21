@@ -12,3 +12,5 @@ Using Computer Vision
   Wavelet Transform
   Flask(for rest API)
   and lots more
+
+Run './backend/util.py' to get the test for a Serena Williams image encoded as base64 string
